@@ -1,0 +1,41 @@
+body{
+  background-color: #e6e6ff;
+  font-family: Franklin Gothic Medium;
+  font-weight: bold;
+
+}
+.navbar-toggler{
+margin-right: 10px;
+}
+.navbar-brand {
+color: black;
+font-size: 3em;
+font-weight: bold;
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 10px;
+}
+
+li{
+  background-color: #ffe6ff;
+   font-family: Franklin Gothic Medium;
+   font-size: 1.5em;
+  text-align: center;
+  border-color: black;
+  border-size: 3px;
+}
+h1{
+  font-size: 2.5em;
+  padding: 10px;
+}
+.navbar-expand-md{
+  padding: 0px;
+}
+.col-xs-12{
+   font-size: 1.5em;
+   padding: 10px;
+}
+.ourtext{
+    background-color:#b3b3ff;
+  padding: 20px;
+}
